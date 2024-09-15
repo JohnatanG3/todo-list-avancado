@@ -32,4 +32,4 @@ Se você quiser contribuir com este projeto, siga estas etapas:
 
 ## Autor
 
-Desenvolvido por [JohnatanG3](https://github.com/SeuUsuario) durante uma mini aula do Hora de Codar no Youtube.
+Desenvolvido por [JohnatanG3](https://github.com/JohnatanG3) durante uma mini aula do Hora de Codar no Youtube.
